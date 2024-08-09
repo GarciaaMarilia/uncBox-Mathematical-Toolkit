@@ -1,32 +1,35 @@
 .body {
-    background-color: #212529;
-    color: #ffffff;
+ background-color: #212529;
+ color: #ffffff;
 }
 
 .form-group label {
-    color: #ffffff;
+ color: #ffffff;
+ font-size: 30px;
+ margin-top: 5rem;
 }
 
 .form-control {
-    background-color: #343a40;
-    color: #ffffff;
+ background-color: #343a40;
+ color: #ffffff;
+ font-size: 4rem;
 }
 
 .btn-primary {
-    background-color: #212529;
-    border-color: #212529;
+ background-color: #212529;
+ border-color: #212529;
 }
 
 .btn-primary:hover {
-    background-color: #212532;
-    border-color: #212532;
+ background-color: #212532;
+ border-color: #212532;
 }
 
 .button-div {
-    margin-top: 40px;
-    text-align: center;
+ margin-top: 40px;
+ text-align: center;
 }
 
 .h1 {
-    color: #661645 !important;
+ color: #fff !important;
 }
